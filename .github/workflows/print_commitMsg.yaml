@@ -3,7 +3,7 @@ name: Print Commit Message
 on:
     push:
         branches:
-            - 'master'  
+            - 'main'  
             # - '**'  #run when u push on any branch
 
 jobs:
